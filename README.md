@@ -7,7 +7,7 @@
 
 One to two paragraph statement about your product and what it does.
 
-![캡처](https://user-images.githubusercontent.com/117795271/228400444-d5d738a4-ee19-4aaf-aff4-1a0c71d38157.PNG)
+![캡처 1](https://user-images.githubusercontent.com/117795271/228400787-1c99da8b-1687-4694-b6d6-5fd068bb7775.png)
 
 ## Installation
 
